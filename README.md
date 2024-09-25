@@ -41,6 +41,8 @@ cd "D:\VSU-Labs-git\6-sem\PP-RVS-MPI\1-lab\8\LabMPI\x64\Debug"
 mpiexec -n 4 "LabMPI.exe"
 ```
 
-# Установка VisualStudio2022
+# Установка VisualStudio2022 и C++
 
-- 
+- По ссылке `https://visualstudio.microsoft.com/ru/vs/` и скачиваем себе Visual Studio 2022
+- Заходим в Visual Studio Installer и в модификацию IDE добавляем `Desktop development with C++`
+- Скачиваем около 9 гигов и все С++ установлен!

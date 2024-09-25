@@ -10,7 +10,7 @@
 Рассматривая Xi как множество (значения вектора не должны повторяться), 
 найти пересечение Xi ∩ Xi+1, i=0,2,…,k/2-1 (где k–количество запущенных процессов).
 
-# Установка
+# Установка MPI
 
 1. [Установить Microsoft MPI](https://www.microsoft.com/en-us/download/details.aspx?id=105289)  
 2. Скачиваем оба файла(`msmpisetup.exe`, `msmpisdk.msi`) и устанавливаем ОБА ФАЙЛА!  
@@ -40,3 +40,7 @@ cd "D:\VSU-Labs-git\6-sem\PP-RVS-MPI\1-lab\8\LabMPI\x64\Debug"
 ```PowerShell
 mpiexec -n 4 "LabMPI.exe"
 ```
+
+# Установка VisualStudio2022
+
+- 

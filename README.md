@@ -1,6 +1,6 @@
 ### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII  | vk = sk_kirill | VisualStudio2022 | C++
 
-> Стоимость - 800₽
+> **Стоимость - 800₽**
 
 # Задача 8
 
@@ -43,6 +43,6 @@ mpiexec -n 4 "LabMPI.exe"
 
 # Установка VisualStudio2022 и C++
 
-- По ссылке `https://visualstudio.microsoft.com/ru/vs/` и скачиваем себе Visual Studio 2022
-- Заходим в Visual Studio Installer и в модификацию IDE добавляем `Desktop development with C++`
+- [Переходим по ссылке и скачиваем себе Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/)
+- Заходим в Visual Studio Installer и в модификацию IDE добавляем ***Desktop development with C++***
 - Скачиваем около 9 гигов и все С++ установлен!
